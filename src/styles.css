@@ -1,8 +1,0 @@
-.root {
-  color: aqua;
-
-  size: 20px;
-}
-.child {
-  pad: -moz-element();
-}
